@@ -1,0 +1,34 @@
+
+
+	fieldset
+	{
+		width: 260px;
+		height: 435px;
+		padding: 41px;
+		margin-left: 295px;
+		color: white;
+		background-color: black;
+		border: black;
+		opacity: 0.8;
+		border-radius: 15px;
+	}
+	
+
+	legend
+	{
+        padding-left: 90px;
+        height: 50px;
+    }
+    .im
+    {
+    	 border-radius:39px; 
+    }
+	h1
+	{
+		text-align: center;
+		font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+
+	}
+	
+	
+	

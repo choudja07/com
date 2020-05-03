@@ -1,0 +1,112 @@
+body
+{
+	background-color: darkgray;
+		background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.div1
+{
+	background-image: url(came/macedoine1.jpg);
+	text-align: center;
+	width: 1024px;
+	height: 400px;
+	font-size: 57px;
+    margin-left: -19px;
+    margin-top: -19px;
+    padding-top: 9px;
+	color: blue;
+		background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.article1
+{
+	background-size: cover;
+	background-attachment: fixed;
+}
+.article1
+{
+
+	margin-left: -19px;
+	width: 1024px;
+	text-align: center;
+	height: 52px;
+	background-image: url(im1.jpg);
+	font-size: 19px;
+	background-repeat: no-repeat;
+	
+
+}
+.article1 .a1
+{
+		color: white;	
+}
+.article1 .a1:hover
+{
+	color: red;
+}
+.article1 .a2
+{
+	text-decoration: none;
+	color: white;
+}
+.article1 .a2:hover
+{
+	color: red;
+}
+div
+{
+	color: white;
+}
+div:hover
+{
+	color:;
+	border-radius: 9px;
+}
+.article
+{
+	margin-left: 79px;
+	color: white;
+	width: 750px;
+	background-image: url(im1.jpg);
+	background-repeat: no-repeat;
+		text-align: center;
+		background-size: cover;
+	background-attachment: fixed;
+
+	border-bottom:solid;
+	border-bottom: chartreuse;
+	border-radius: 16px;
+	margin-bottom: 79px;
+}
+.io
+{
+	padding: 19px;
+}
+.cm
+{
+	width: 220px;
+	height: 165px;
+	border-radius: 19px;
+}
+.ta
+{
+	background-color: darkslategray;
+	color: black;
+	margin-left: -19px;
+	width: 1024px;
+	text-align: center;
+	font-size: 24px;
+}
+.aeticle td article
+{
+	text-decoration: none;
+}
+.aeticle td article:hover
+	{
+		
+		color:lawngreen;
+	}
+	
